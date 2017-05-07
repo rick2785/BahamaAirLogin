@@ -1,0 +1,1 @@
+BahamaAirLoginScreen is a fictional airline app that simply shows a login form with a title, two textfields, and a big friendly button at the bottom. UIView animation spices things up a bit by creating move, fade, reverse, and repeat animations.  
